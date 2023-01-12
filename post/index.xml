@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jocoy-|_Blog</title>
+    <link>https://jocoy.github.io/post/</link>
+    <description>Recent content in Posts on Jocoy-|_Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 16:05:59 +0800</lastBuildDate><atom:link href="https://jocoy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://jocoy.github.io/post/blog/</link>
+      <pubDate>Thu, 12 Jan 2023 16:05:59 +0800</pubDate>
+      
+      <guid>https://jocoy.github.io/post/blog/</guid>
+      
+        <description>&amp;ldquo;平安喜乐 哈哈哈哈“ “新春快乐 兔年吉祥”</description>
+      
+    </item>
+    
+  </channel>
+</rss>
